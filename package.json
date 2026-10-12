@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-mcp-community",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Free, human-approved LinkedIn posting through an MCP server and the official API",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "bin": { "linkedin-mcp-community": "./src/index.mjs" },
+  "scripts": {
+    "start": "node src/index.mjs mcp",
+    "test": "node --test test/*.test.mjs"
+  },
+  "keywords": ["mcp", "linkedin", "open-source", "human-in-the-loop", "scheduling"]
+}
