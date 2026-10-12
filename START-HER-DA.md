@@ -1,6 +1,6 @@
 # Start her – LinkedIn MCP Community (v0.1)
 
-Dette er en **første, testet kodeversion** af en gratis MCP-server. Den er endnu ikke live-testet med din LinkedIn-konto og er nu klar til publicering i GitHub-repositoriet. OAuth og publicering mod en rigtig LinkedIn-konto mangler stadig at blive verificeret.
+Dette er en **første, testet kodeversion** af en gratis MCP-server. Den er endnu ikke live-testet med din LinkedIn-konto og er nu publiceret i GitHub-repositoriet. OAuth og publicering mod en rigtig LinkedIn-konto mangler stadig at blive verificeret.
 
 ## Hvad du får
 
